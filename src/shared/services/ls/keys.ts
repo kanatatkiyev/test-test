@@ -1,0 +1,2 @@
+export const LS_QUESTIONS_KEY = 'LS_QUESTIONS';
+export const LS_TIME_REMAIN_KEY = 'LS_TIME_REMAIN';
